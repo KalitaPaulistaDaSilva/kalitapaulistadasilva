@@ -1,15 +1,16 @@
-### Boas vindas ao meu perfil🎃
+## Olá!Seja muito bem vindo🎃
 
-Meu nome Kálita Paulista 
+Meu nome **_Kálita Paulista_** 
 
-- Estou estudando na [Alura](https//www.alura.com.br)
-- Estou me desenvolvendo na linguagem Javascript
-- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estou estudando no [CEEP](http://www.pgoedprofpontagrossa.seed.pr.gov.br) 
+- Estou me desenvolvendo em Técnico De Informática 💻😳
+- Ultilizo esse espaço para conhecer projetos,e também postar alguns conhecimentos da minha área!
 
-### Você entra em contato comigo 📧
+
+## Pode entrar em contato comigo   
 
 kalitasilva014@gmail.com
 
-@kalita_67
+
 
 ![](https://media.tenor.com/BY-4cJ3NSrcAAAAM/sus-suspicious.gif)
