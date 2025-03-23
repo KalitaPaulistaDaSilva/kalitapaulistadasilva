@@ -2,8 +2,8 @@
 
 Meu nome **_Kálita Paulista_** 
 
-- Estou estudando no [CEEP](http://www.pgoedprofpontagrossa.seed.pr.gov.br) 
-- Estou me desenvolvendo em Técnico De Informática 💻😳
+- Estou me desenvolvendo em VBA - Básico  e Avançado!
+
 - Ultilizo esse espaço para conhecer projetos,e também postar alguns conhecimentos da minha área!
 
 
