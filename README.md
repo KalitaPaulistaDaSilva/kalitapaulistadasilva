@@ -10,7 +10,3 @@ Meu nome **_Kálita Paulista_**
 ## Pode entrar em contato comigo   
 
 kalitasilva014@gmail.com
-
-
-
-![](https://media.tenor.com/BY-4cJ3NSrcAAAAM/sus-suspicious.gif)
