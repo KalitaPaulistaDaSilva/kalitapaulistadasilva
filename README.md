@@ -1,12 +1,9 @@
-## Olá!Seja muito bem vindo🎃
+## Olá, seja muito bem-vindo(a)! 
 
-Meu nome **_Kálita Paulista_** 
+Meu nome é ** Kálita Paulista** e sou estudante de Técnico  Desenvolvimento de Sistemas.
 
-- Estou me desenvolvendo em VBA - Básico  e Avançado!
+- Atualmente, estou aprofundando meus conhecimentos em HTML,CSS e JavaScript.
+- Utilizo este espaço para compartilhar meus projetos, praticar a lógica de programação e documentar minha evolução na tecnologia.
 
-- Ultilizo esse espaço para conhecer projetos,e também postar alguns conhecimentos da minha área!
-
-
-## Pode entrar em contato comigo   
-
-kalitasilva014@gmail.com
+- ## 📬 Vamos nos conectar?
+Você pode entrar em contato comigo pelo e-mail: **kalitasilva014@gmail.com**
